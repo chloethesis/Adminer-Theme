@@ -1,1 +1,1 @@
-# Adminer-Theme
+# ADMINER THEME
